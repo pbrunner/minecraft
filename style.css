@@ -1,0 +1,13 @@
+html {
+  font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+#status {
+  display: flex;
+  height: 100vh;
+  text-align: center;
+  background-color: #404040;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
